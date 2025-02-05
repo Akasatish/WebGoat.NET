@@ -6,7 +6,7 @@
 trigger:
 - master
 
-pool:  satish
+pool:  satishb
 
 variables:
   solution: '**/*.sln'
